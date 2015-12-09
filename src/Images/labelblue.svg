@@ -1,0 +1,23 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter color-interpolation-filters="sRGB" id="filter3231">
+   <feGaussianBlur id="feGaussianBlur3233" stdDeviation="2.537391"/>
+  </filter>
+  <filter color-interpolation-filters="sRGB" id="filter3243">
+   <feGaussianBlur id="feGaussianBlur3245" stdDeviation="2.533217"/>
+  </filter>
+  <filter color-interpolation-filters="sRGB" height="1.270816" y="-0.135408" width="1.12177" x="-0.060885" id="filter3289">
+   <feGaussianBlur id="feGaussianBlur3291" stdDeviation="7.916005"/>
+  </filter>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <rect opacity="0.483333" fill="#8bc2f9" fill-rule="evenodd" stroke-width="1px" filter="url(#filter3289)" ry="21.036585" y="149.998416" x="151.998277" height="140.30487" width="312.03827" id="rect3247"/>
+   <rect fill="#8bc2f9" fill-rule="evenodd" stroke-width="1px" ry="21.036585" y="144.644746" x="149.388517" height="140.30487" width="312.03827" id="rect2383"/>
+   <rect fill="#8bc2f9" fill-rule="evenodd" filter="url(#filter3243)" transform="matrix(1.06414, 0, 0, 1.01545, -13.1038, -4.81371)" ry="10.032408" y="209.303085" x="162.87901" height="66.911797" width="270.85052" id="rect3155"/>
+   <rect fill="#8bc2f9" fill-rule="evenodd" stroke-width="1px" filter="url(#filter3231)" transform="matrix(1.06408, 0, 0, 1.01545, -10.9728, -4.81371)" ry="10.065744" y="157.824675" x="161.020759" height="67.13414" width="271.18463" id="rect3181"/>
+  </g>
+ </g>
+</svg>
